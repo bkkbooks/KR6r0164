@@ -1,0 +1,1124 @@
+canonical_identifier: bkk:krp/KR6r0164/X/v1
+canonical_location: https://kanripo.org/bkk/KR6r0164/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 現果隨錄
+  identifiers:
+    krp: KR6r0164
+    cbeta: X88n1642
+    cbeta_old_id: X88n1642
+    authorityid: CA0003555
+    json_key: X1642
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X88/X88n1642.xml
+    old_id: X88n1642
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0164_000-X.yaml, hash: 'sha256:35f7131cb1001aa98e2b7b41c2603c60936c3f67bc3353526aa0ea316dafbb60'}
+  - {seq: 1, filename: KR6r0164_001-X.yaml, hash: 'sha256:66d50863b79b5ffeec7e4170a4eb31e85c3069c38134a78eb2957013b7b6edf1'}
+  - {seq: 2, filename: KR6r0164_002-X.yaml, hash: 'sha256:2389b21330a6f01d2aeebee1d88c54cd4531647d4724b80cef202ed629b4e396'}
+  - {seq: 3, filename: KR6r0164_003-X.yaml, hash: 'sha256:c89e65a537be188a58def48f21b3eb8bd15f388c81f478e73aed1c1ba82b974a'}
+  - {seq: 4, filename: KR6r0164_004-X.yaml, hash: 'sha256:118043ae2330b4eb1776573130831fe709ce472952bd9438d412c89f7fa1abc5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0164_000-X.markers.yaml, hash: 'sha256:3f7f2ec6787a91955bb8ee4dd00cd5d37dd4c82c45f514d3f49e727673c081c1'}
+  - {seq: 1, role: markers, filename: assets/KR6r0164_001-X.markers.yaml, hash: 'sha256:766783ab4e915307bfe1d335f9f1b6db10a03144838bf767fa99e30b3b97f3dc'}
+  - {seq: 2, role: markers, filename: assets/KR6r0164_002-X.markers.yaml, hash: 'sha256:c4ba38fcf95ec383ab370e1cd5c7e769db8765083c2e976b07a8823673b2f488'}
+  - {seq: 3, role: markers, filename: assets/KR6r0164_003-X.markers.yaml, hash: 'sha256:1228f64e03a8e6dbb4e9b821a0d24820ca9a6a5d1697ad20b1bdbfd55ff0ee1f'}
+  - {seq: 4, role: markers, filename: assets/KR6r0164_004-X.markers.yaml, hash: 'sha256:3e9e14a95aec14c154986e859b4f77b93dc6be9a53d5d5a7fc3d82fab7c89023'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0164_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1642-A 現果隨錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0164_X_000-mulu-2
+    span:
+    - front
+    - 314
+    - 314
+  label: 現果隨錄目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5851
+  label: 現果隨錄卷之一　凡現在因果係親見聞者皆入此錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 陳益修以力護關廟大士賜目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-2
+    span:
+    - body
+    - 642
+    - 642
+  label: 趙志清挂冠修行先幾免禍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-3
+    span:
+    - body
+    - 938
+    - 938
+  label: 趙時雍施異僧一錢便獲賢嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-4
+    span:
+    - body
+    - 1347
+    - 1347
+  label: 徐成民身理陰司刊行冥判
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-5
+    span:
+    - body
+    - 1627
+    - 1627
+  label: 圓通師稟受大戒頓脫無常
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-6
+    span:
+    - body
+    - 1844
+    - 1844
+  label: 朱綱魂遊冥府論前世判事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-7
+    span:
+    - body
+    - 2122
+    - 2122
+  label: 隱圓師以禮懺放食消解夙冤
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-8
+    span:
+    - body
+    - 2453
+    - 2453
+  label: 碧璠毀如來衣鉢頓縮一臂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-9
+    span:
+    - body
+    - 2630
+    - 2630
+  label: 張斌以念佛金錢救主危難
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-10
+    span:
+    - body
+    - 3078
+    - 3078
+  label: 吳澆燭以念佛作福剋期善逝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-11
+    span:
+    - body
+    - 3370
+    - 3370
+  label: 吳叔寶以臨終稟戒念佛蓮花湧現
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-12
+    span:
+    - body
+    - 3733
+    - 3733
+  label: 王建以誤攝回生親述冥事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-13
+    span:
+    - body
+    - 3881
+    - 3881
+  label: 周秀才以却暗中財立登科第
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-14
+    span:
+    - body
+    - 4168
+    - 4168
+  label: 顧宗伯以盡節被溺彰顯前因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-15
+    span:
+    - body
+    - 4565
+    - 4565
+  label: 張儀部以持正罹難神祐全節
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-16
+    span:
+    - body
+    - 5154
+    - 5154
+  label: 魏應之退念開齋卒致縊死
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-17
+    span:
+    - body
+    - 5454
+    - 5454
+  label: 王齋公失念賣齋立致死亡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0164_X_001-mulu-18
+    span:
+    - body
+    - 5699
+    - 5699
+  label: 福主神厭惡穢凟顯靈拽廟
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 5984
+  label: 現果隨錄卷之二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 吳瞻樓修持登簿瑞現西方
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-2
+    span:
+    - body
+    - 221
+    - 221
+  label: 弱菴師誤用堦石託顛僧傳信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-3
+    span:
+    - body
+    - 513
+    - 513
+  label: 石氏猪託夢免殺自投禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-4
+    span:
+    - body
+    - 809
+    - 809
+  label: 戴星歸失口誦呪得免油鍋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-5
+    span:
+    - body
+    - 1334
+    - 1334
+  label: 武昌僧為菜害猪江心招報
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-6
+    span:
+    - body
+    - 1519
+    - 1519
+  label: 王子房捨昭慶棟梁大彰靈異
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-7
+    span:
+    - body
+    - 1760
+    - 1760
+  label: 汪司馬魚頂金經鏤板傳世
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-8
+    span:
+    - body
+    - 1903
+    - 1903
+  label: 趙朝奉以羅漢帶回因建大寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-9
+    span:
+    - body
+    - 2291
+    - 2291
+  label: 王御史建醫祖殿得子免難
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-10
+    span:
+    - body
+    - 2559
+    - 2559
+  label: 張封翁以還金厚德子孫世顯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-11
+    span:
+    - body
+    - 2841
+    - 2841
+  label: 錢州侯請律師授戒燭現佛像
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-12
+    span:
+    - body
+    - 3155
+    - 3155
+  label: 葛朗玉父子刻勸善書施人全家免難
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-13
+    span:
+    - body
+    - 3379
+    - 3379
+  label: 孫學憲因羅漢回生塑像竪󳬴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-14
+    span:
+    - body
+    - 3576
+    - 3576
+  label: 北高峰五聖募石柱助建靈隱大殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-15
+    span:
+    - body
+    - 3711
+    - 3711
+  label: 太倉水陸期中神鬼顯異
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-16
+    span:
+    - body
+    - 3828
+    - 3828
+  label: 崑山安禪菴地藏懺期紀異
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-17
+    span:
+    - body
+    - 4068
+    - 4068
+  label: 張邇求食葷感夢齋戒圓期
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-18
+    span:
+    - body
+    - 4270
+    - 4270
+  label: 龔爾茂以廣施勸善文神降顯靈
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-19
+    span:
+    - body
+    - 4473
+    - 4473
+  label: 踈山大殿天王兩顯靈異
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-20
+    span:
+    - body
+    - 4753
+    - 4753
+  label: 李銓部以造像獲嗣始終守節
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-21
+    span:
+    - body
+    - 5033
+    - 5033
+  label: 李伯馨心念殺人却為心鬼所殺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-22
+    span:
+    - body
+    - 5362
+    - 5362
+  label: 久病翁喜還夙債頓去心蛇
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0164_X_002-mulu-23
+    span:
+    - body
+    - 5686
+    - 5686
+  label: 馬給諫以禍虧齋素竟歸神道
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 6575
+  label: 現果隨錄卷之三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 錢伯韞以老年學佛竟得西歸
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-2
+    span:
+    - body
+    - 292
+    - 292
+  label: 黃攝六篤志西方剋期善逝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-3
+    span:
+    - body
+    - 611
+    - 611
+  label: 王奉常以累世修積科第蟬連
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-4
+    span:
+    - body
+    - 1078
+    - 1078
+  label: 譚憲卿創大悲壇祈嗣立生雙璧
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-5
+    span:
+    - body
+    - 1314
+    - 1314
+  label: 先府君以精虗事佛屢感奇徵
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-6
+    span:
+    - body
+    - 1904
+    - 1904
+  label: 上天竺鑄銅像大士顯靈自賜黃泥
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-7
+    span:
+    - body
+    - 2060
+    - 2060
+  label: 金谿縣青蛙使者顯異寶跡
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-8
+    span:
+    - body
+    - 2309
+    - 2309
+  label: 黃州安國寺張真君憑小卒降筆
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-9
+    span:
+    - body
+    - 2633
+    - 2633
+  label: 徐亦史損財惠民隨獲美報
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-10
+    span:
+    - body
+    - 2853
+    - 2853
+  label: 俞春蛟以飯僧免回祿增修福行
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-11
+    span:
+    - body
+    - 2962
+    - 2962
+  label: 朱君以僧預為作法火難得全
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-12
+    span:
+    - body
+    - 3059
+    - 3059
+  label: 蔣素公以續菩薩指獲薦賢書
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-13
+    span:
+    - body
+    - 3259
+    - 3259
+  label: 尹宣子以難地禮懺竟得生全
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-14
+    span:
+    - body
+    - 3562
+    - 3562
+  label: 張鎮臺以韋天示夢安國重興
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-15
+    span:
+    - body
+    - 3872
+    - 3872
+  label: 二人敬慢關帝榮辱異報
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-16
+    span:
+    - body
+    - 4046
+    - 4046
+  label: 張其光違夢烹鱉貪饕致死
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-17
+    span:
+    - body
+    - 4224
+    - 4224
+  label: 王指揮以惡性為蛇隔生餘報
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-18
+    span:
+    - body
+    - 4532
+    - 4532
+  label: 漢口屠人不聽僧勸立招慘報
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-19
+    span:
+    - body
+    - 4654
+    - 4654
+  label: 高郵猪遺身換蓆始終還債
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-20
+    span:
+    - body
+    - 4804
+    - 4804
+  label: 蓬閬鎮屠牛惡戶立招業報
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-21
+    span:
+    - body
+    - 4897
+    - 4897
+  label: 居道人亂啖庫物轉身作驢
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-22
+    span:
+    - body
+    - 5009
+    - 5009
+  label: 曹翰以屠城為猪遇緣得救
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-23
+    span:
+    - body
+    - 5442
+    - 5442
+  label: 吳江路叢大報恩奇冤立雪
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-24
+    span:
+    - body
+    - 5690
+    - 5690
+  label: 王郡丞赴任吳地為蛙伸冤
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-25
+    span:
+    - body
+    - 5830
+    - 5830
+  label: 王曉江謝官修行頓躋道果
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-26
+    span:
+    - body
+    - 6060
+    - 6060
+  label: 賈客以誠心供佛代殺保全
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-27
+    span:
+    - body
+    - 6171
+    - 6171
+  label: 回子擊銅佛不壞禍還賣主
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-28
+    span:
+    - body
+    - 6294
+    - 6294
+  label: 癱子以禮拜觀音病愈興緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0164_X_003-mulu-29
+    span:
+    - body
+    - 6452
+    - 6452
+  label: 徽商堅決進香竟免火難
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 6462
+  label: 現果隨錄卷之四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 黃州飛火亂焚獨免齋戶
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-2
+    span:
+    - body
+    - 101
+    - 101
+  label: 貧女捨一錢鑄佛勝跡不磨
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-3
+    span:
+    - body
+    - 211
+    - 211
+  label: 堯峰僧竊韋天燈油立招譴責
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-4
+    span:
+    - body
+    - 379
+    - 379
+  label: 毗盧塔鬼勾僧索債酬畢方甦
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-5
+    span:
+    - body
+    - 550
+    - 550
+  label: 二孝廉侮慢文昌身祿俱損
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-6
+    span:
+    - body
+    - 725
+    - 725
+  label: 二孝廉襲慢地藏立死受報
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-7
+    span:
+    - body
+    - 931
+    - 931
+  label: 建昌小民穢汙三寶雷神擊死
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-8
+    span:
+    - body
+    - 1096
+    - 1096
+  label: 甬城人以穢觸塔廟立遭奇禍
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-9
+    span:
+    - body
+    - 1256
+    - 1256
+  label: 陳祥屠狗怙惡不慘現身招報
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-10
+    span:
+    - body
+    - 1341
+    - 1341
+  label: 熊季納以精虔護法刻期獲嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-11
+    span:
+    - body
+    - 1512
+    - 1512
+  label: 顧秀才化鶴回生尋訪得實
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-12
+    span:
+    - body
+    - 1702
+    - 1702
+  label: 黃封翁以行善感大士送子著大名節
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-13
+    span:
+    - body
+    - 1864
+    - 1864
+  label: 吳霞舟以盡節焚身神昇天
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-14
+    span:
+    - body
+    - 2087
+    - 2087
+  label: 史封翁以久遠齋僧感子大魁
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-15
+    span:
+    - body
+    - 2256
+    - 2256
+  label: 楊君以錯口救人致家溫富
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-16
+    span:
+    - body
+    - 2530
+    - 2530
+  label: 吳生遇仙愛命蹉過奇緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-17
+    span:
+    - body
+    - 2771
+    - 2771
+  label: 瞽者以害心劫殺己命立殞
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-18
+    span:
+    - body
+    - 3163
+    - 3163
+  label: 吳道媼以虔誦金剛坐化顯異
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-19
+    span:
+    - body
+    - 3393
+    - 3393
+  label: 方氏以虔誠禮誦盡室生還
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-20
+    span:
+    - body
+    - 3554
+    - 3554
+  label: 許子位以前生撿字得中高科
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-21
+    span:
+    - body
+    - 3777
+    - 3777
+  label: 董七以虗秤取利家財暗耗
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-22
+    span:
+    - body
+    - 3994
+    - 3994
+  label: 費隱老和尚逝後茶毗現多舍利
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-23
+    span:
+    - body
+    - 4191
+    - 4191
+  label: 曹溪原直禪師以悟道精修末後現瑞
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-24
+    span:
+    - body
+    - 4342
+    - 4342
+  label: 天白大德以持誦法華終聞天樂
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-25
+    span:
+    - body
+    - 4510
+    - 4510
+  label: 新戒以攢單未完韋天示應
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-26
+    span:
+    - body
+    - 4675
+    - 4675
+  label: 王僕以前世行善竟免鬼錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-27
+    span:
+    - body
+    - 4882
+    - 4882
+  label: 允修以惡性敺妻終受蛇報
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-28
+    span:
+    - body
+    - 5037
+    - 5037
+  label: 蔡公子以靈隱伽藍顯應復得回生
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-29
+    span:
+    - body
+    - 5250
+    - 5250
+  label: 江北僧繫戀遺財超薦得脫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-30
+    span:
+    - body
+    - 5403
+    - 5403
+  label: 王仰泉以改業修行得生淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-31
+    span:
+    - body
+    - 5604
+    - 5604
+  label: 漁船以巧計沒人立報抵命
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-32
+    span:
+    - body
+    - 5773
+    - 5773
+  label: 沈文學以塗抹壇經招報劇苦
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0164_X_004-mulu-33
+    span:
+    - body
+    - 5967
+    - 5967
+  label: 支庠友以誤傷人命祿籍頓消
+  type: mulu
+  level: 1
+hash: sha256:679e8fbdd8e0d9292266d7fe071f8ddbad3e887a5126a039d92f9f084fdbfbd4
