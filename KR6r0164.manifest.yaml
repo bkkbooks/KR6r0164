@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0164_000.yaml, hash: 'sha256:042c26b3dec4645b828749dc5d9a8c1fd5a539e5138f4fcc2064559b5f40b01f'}
-  - {seq: 1, filename: KR6r0164_001.yaml, hash: 'sha256:b80cf15ffb1a84ca2eea4322b0363886a6aa7d406cfeb3f502385c3cd23de5f2'}
-  - {seq: 2, filename: KR6r0164_002.yaml, hash: 'sha256:7a5a9c3ea7526406d33d490719098a4bc81466f73b38f6b459fa65fe5e5dcf4c'}
-  - {seq: 3, filename: KR6r0164_003.yaml, hash: 'sha256:ee82d869f538e3cd090ba72c9281955c63ee3e1f8b308496c856b5d654c00ea3'}
-  - {seq: 4, filename: KR6r0164_004.yaml, hash: 'sha256:e67ff2018335b205f9c9d3f06c97fe5a961cefffebc1a7c5a57ec30d79f67e16'}
+  - {seq: 0, filename: KR6r0164_000.yaml, hash: 'sha256:35f7131cb1001aa98e2b7b41c2603c60936c3f67bc3353526aa0ea316dafbb60'}
+  - {seq: 1, filename: KR6r0164_001.yaml, hash: 'sha256:66d50863b79b5ffeec7e4170a4eb31e85c3069c38134a78eb2957013b7b6edf1'}
+  - {seq: 2, filename: KR6r0164_002.yaml, hash: 'sha256:2389b21330a6f01d2aeebee1d88c54cd4531647d4724b80cef202ed629b4e396'}
+  - {seq: 3, filename: KR6r0164_003.yaml, hash: 'sha256:c89e65a537be188a58def48f21b3eb8bd15f388c81f478e73aed1c1ba82b974a'}
+  - {seq: 4, filename: KR6r0164_004.yaml, hash: 'sha256:118043ae2330b4eb1776573130831fe709ce472952bd9438d412c89f7fa1abc5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0164_000.markers.yaml, hash: 'sha256:0c78a1a5fa751650d7afff97629288a261261c770981eeecd785d925b83b64a9'}
-  - {seq: 1, role: markers, filename: assets/KR6r0164_001.markers.yaml, hash: 'sha256:f15f80c9884903bad76409e3506fb17a8e5fd375ad641adbd9837e23575010d0'}
-  - {seq: 2, role: markers, filename: assets/KR6r0164_002.markers.yaml, hash: 'sha256:89ca35b2c24b03ecec14e6b26c2593ade9639415fd4f481a3608482a83ea0c29'}
-  - {seq: 3, role: markers, filename: assets/KR6r0164_003.markers.yaml, hash: 'sha256:e66d2e45c2e99ade9ce1b0147c9ab755241bebd31dc8bfaf1415a1579ad11004'}
-  - {seq: 4, role: markers, filename: assets/KR6r0164_004.markers.yaml, hash: 'sha256:4554581a07609964a2d123f7f6fae5e7f442782fe7148891ddaaaadf67dbb88a'}
+  - {seq: 0, role: markers, filename: assets/KR6r0164_000.markers.yaml, hash: 'sha256:1cc08c417f72d9aad6e66c5a7e32a8383a4da886e946ed476c26490691f7482e'}
+  - {seq: 1, role: markers, filename: assets/KR6r0164_001.markers.yaml, hash: 'sha256:6e3f9ee83c9d399de99242c675dbef2590839170856f810e2e09dd8667f8d394'}
+  - {seq: 2, role: markers, filename: assets/KR6r0164_002.markers.yaml, hash: 'sha256:59830a32eec320f55cd70060954286b910b6c250d8c2429d8fcc308aee556acb'}
+  - {seq: 3, role: markers, filename: assets/KR6r0164_003.markers.yaml, hash: 'sha256:279ec368ce7b8b9cf61acd19288a29ff0fbbb5f7c8be7125f9925191cc266a66'}
+  - {seq: 4, role: markers, filename: assets/KR6r0164_004.markers.yaml, hash: 'sha256:803836524963b31766dae3ca775a07649274d13b85dcbca972a69ba99050f034'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1123,7 +1123,4 @@ table_of_contents:
   label: 支庠友以誤傷人命祿籍頓消
   type: mulu
   level: 1
-hash: sha256:9c0f5fe05a546779705ffbba5f63994c18b2f9e063a332c5a1b12710de970c7d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:419d1a6cf90442fc557d477d46eec2518a73d4ee03dae2ba89e28504c8e93a6f
