@@ -19,13 +19,13 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0164_000-X.yaml, hash: 'sha256:35f7131cb1001aa98e2b7b41c2603c60936c3f67bc3353526aa0ea316dafbb60'}
+  - {seq: 0, filename: KR6r0164_000-X.yaml, hash: 'sha256:fcfe22cb3745703737fe401216c1a6e10329b91c5f81efdb4f250bfafa1761cd'}
   - {seq: 1, filename: KR6r0164_001-X.yaml, hash: 'sha256:66d50863b79b5ffeec7e4170a4eb31e85c3069c38134a78eb2957013b7b6edf1'}
   - {seq: 2, filename: KR6r0164_002-X.yaml, hash: 'sha256:2389b21330a6f01d2aeebee1d88c54cd4531647d4724b80cef202ed629b4e396'}
   - {seq: 3, filename: KR6r0164_003-X.yaml, hash: 'sha256:c89e65a537be188a58def48f21b3eb8bd15f388c81f478e73aed1c1ba82b974a'}
   - {seq: 4, filename: KR6r0164_004-X.yaml, hash: 'sha256:118043ae2330b4eb1776573130831fe709ce472952bd9438d412c89f7fa1abc5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0164_000-X.markers.yaml, hash: 'sha256:3f7f2ec6787a91955bb8ee4dd00cd5d37dd4c82c45f514d3f49e727673c081c1'}
+  - {seq: 0, role: markers, filename: assets/KR6r0164_000-X.markers.yaml, hash: 'sha256:7a52823d50061c9ee6c085430a6ea82b2ba660d12cf12e73ffa2a9e77064347e'}
   - {seq: 1, role: markers, filename: assets/KR6r0164_001-X.markers.yaml, hash: 'sha256:766783ab4e915307bfe1d335f9f1b6db10a03144838bf767fa99e30b3b97f3dc'}
   - {seq: 2, role: markers, filename: assets/KR6r0164_002-X.markers.yaml, hash: 'sha256:c4ba38fcf95ec383ab370e1cd5c7e769db8765083c2e976b07a8823673b2f488'}
   - {seq: 3, role: markers, filename: assets/KR6r0164_003-X.markers.yaml, hash: 'sha256:1228f64e03a8e6dbb4e9b821a0d24820ca9a6a5d1697ad20b1bdbfd55ff0ee1f'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0164_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1642-A 現果隨錄序
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0164_X_000-mulu-2
     span:
-    - front
+    - body
     - 314
     - 314
   label: 現果隨錄目錄
@@ -1121,4 +1121,4 @@ table_of_contents:
   label: 支庠友以誤傷人命祿籍頓消
   type: mulu
   level: 1
-hash: sha256:679e8fbdd8e0d9292266d7fe071f8ddbad3e887a5126a039d92f9f084fdbfbd4
+hash: sha256:7f5fa2dc0049e5b3bb0afe0d26d1a86656d78bd0d988770a945a42699bcaedba
